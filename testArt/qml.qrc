@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qml/Fragment1.qml</file>
+        <file>qml/Fragment2.qml</file>
+        <file>qml/Fragment3.qml</file>
+        <file>qml/MainApplication.qml</file>
+        <file>qml/NavigationDrawer.qml</file>
+        <file>qml/Resources/glavny_fon11.png</file>
+    </qresource>
+</RCC>
